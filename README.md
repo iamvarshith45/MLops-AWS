@@ -24,7 +24,7 @@ http://localhost:5000/predict <br>
 }
 
 
-chrome://extensions <br>
+# chrome://extensions <br>
 
 How to get youtube api key from GCP <br>
 https://www.youtube.com/watch?v=i_FdiQMwKiw <br>
