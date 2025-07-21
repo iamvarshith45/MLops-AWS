@@ -4,26 +4,27 @@ conda activate youtube
 
 pip install -r requirements.txt
 
-DVC 
+# DVC <br>
 dvc init
 
 dvc repro
 
-dvc dag
+dvc dag <br>
 
 
-AWS
-aws configure
+#AWS <br>
 
-Json data demo in postman
-http://localhost:5000/predict
+aws configure <br>
+
+Json data demo in postman <br>
+http://localhost:5000/predict <br>
 
 {
-    "comments": ["This video is awsome! I loved a lot", "Very bad explanation. poor video"]
+    "comments": ["This video is awsome! I loved a lot", "Very bad explanation. poor video"] <br>
 }
 
 
-chrome://extensions
+chrome://extensions <br>
 
-How to get youtube api key from GCP
-https://www.youtube.com/watch?v=i_FdiQMwKiw
+How to get youtube api key from GCP <br>
+https://www.youtube.com/watch?v=i_FdiQMwKiw <br>
