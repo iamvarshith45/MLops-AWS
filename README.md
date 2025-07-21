@@ -1,1 +1,29 @@
-The pin wheel elements from the Vikalp Sangam article highlights the implementation features in Maligaon that helped in sustained impact Community partnership & ownership where Gram Vikas collaborated closely with the village, training local women as microgrid cooperators and involving a village committee in decision making. The upgraded system uses LFP batteries with 14-15 year lifespan, added solar panels, three-phase power, and smart prepaid meters  for autonomy and flexible expansion and Reliable electricity enabled startups like a photocopy shop, footwear making, refrigerated goods and farmers anticipate doubling income if irrigation pumps get integrated.
+conda create -n youtube python=3.11 -y
+
+conda activate youtube
+
+pip install -r requirements.txt
+
+DVC 
+dvc init
+
+dvc repro
+
+dvc dag
+
+
+AWS
+aws configure
+
+Json data demo in postman
+http://localhost:5000/predict
+
+{
+    "comments": ["This video is awsome! I loved a lot", "Very bad explanation. poor video"]
+}
+
+
+chrome://extensions
+
+How to get youtube api key from GCP
+https://www.youtube.com/watch?v=i_FdiQMwKiw
